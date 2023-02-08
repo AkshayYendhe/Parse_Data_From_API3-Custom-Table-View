@@ -13,6 +13,8 @@
 		EF127AD1298F7B8700619436 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF127ACF298F7B8700619436 /* Main.storyboard */; };
 		EF127AD3298F7B8900619436 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF127AD2298F7B8900619436 /* Assets.xcassets */; };
 		EF127AD6298F7B8900619436 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF127AD4298F7B8900619436 /* LaunchScreen.storyboard */; };
+		EF127ADE298F7BDA00619436 /* CapitalNames.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF127ADD298F7BDA00619436 /* CapitalNames.swift */; };
+		EF127AE0298F8CD500619436 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF127ADF298F8CD500619436 /* MyTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		EF127AD2298F7B8900619436 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF127AD5298F7B8900619436 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EF127AD7298F7B8900619436 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF127ADD298F7BDA00619436 /* CapitalNames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapitalNames.swift; sourceTree = "<group>"; };
+		EF127ADF298F8CD500619436 /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				EF127ACB298F7B8700619436 /* SceneDelegate.swift */,
 				EF127ACD298F7B8700619436 /* ViewController.swift */,
 				EF127ACF298F7B8700619436 /* Main.storyboard */,
+				EF127ADF298F8CD500619436 /* MyTableViewCell.swift */,
+				EF127ADD298F7BDA00619436 /* CapitalNames.swift */,
 				EF127AD2298F7B8900619436 /* Assets.xcassets */,
 				EF127AD4298F7B8900619436 /* LaunchScreen.storyboard */,
 				EF127AD7298F7B8900619436 /* Info.plist */,
@@ -141,6 +147,8 @@
 				EF127ACE298F7B8700619436 /* ViewController.swift in Sources */,
 				EF127ACA298F7B8700619436 /* AppDelegate.swift in Sources */,
 				EF127ACC298F7B8700619436 /* SceneDelegate.swift in Sources */,
+				EF127AE0298F8CD500619436 /* MyTableViewCell.swift in Sources */,
+				EF127ADE298F7BDA00619436 /* CapitalNames.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
